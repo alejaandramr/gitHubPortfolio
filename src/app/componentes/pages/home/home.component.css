@@ -1,0 +1,4 @@
+/* This only changes this particular animation duration */
+.animate__animated.animate__headShake {
+    --animate-duration: 8000s;
+  }
